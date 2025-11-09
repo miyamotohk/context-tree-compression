@@ -1,5 +1,5 @@
 # Context-Tree-Based Compression
 
-Implementation codes of the context-tree-based compression in H. K. Miyamoto and S. Yang, "Context-Tree-Based Lossy Compression and Its Application to CSI Representation", [arXiv:2110.14748](https://arxiv.org/abs/2110.14748), 2021.
+Implementation codes of the context-tree-based compression scheme from:
 
-Project webpage: [https://miyamotohk.github.io/context-tree-compression](https://miyamotohk.github.io/context-tree-compression)
+* H. K. Miyamoto and S. Yang, “Context-tree-based lossy compression and its application to CSI representation”, IEEE Transactions on Communications, vol. 70, no. 7, pp. 4417-4428, 2022, doi: 10.1109/TCOMM.2022.3173002. [Link](https://ieeexplore.ieee.org/document/9770048) [arXiv](https://arxiv.org/abs/2110.14748)
